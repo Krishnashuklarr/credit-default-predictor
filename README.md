@@ -88,4 +88,4 @@ streamlit run app.py         # Launch web app
 
 ## 👤 Author
 
-Built by **Krish**
+Built by **Krishna Kumar Shukla**
